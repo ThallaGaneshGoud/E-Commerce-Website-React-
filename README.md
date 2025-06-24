@@ -1,67 +1,67 @@
-# E-Commerce Website
+# 🛒 E-Commerce Website using React.js
 
-A Ecommerce Website made with React.js Framework.
+A responsive, feature-rich e-commerce web application built with React.js, showcasing modern frontend architecture, product listings, cart functionality, and more.
 
-
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
-
-## Features
-
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+---
 
 
 
-## Run Locally
+---
 
-Clone the project
+## 🚀 Tech Stack
 
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
+- ⚛️ React JS
+- 📦 React Router
+- 💅 Tailwind CSS / CSS Modules / Bootstrap
+- 🛒 Context API / Redux (optional)
+- 💾 Fake Store API / Custom Backend
+- 🔧 Vite / Create React App
 
-Go to the project directory
+---
 
-```bash
-  cd React_E-Commerce
-```
+## ✨ Features
 
-Install dependencies
+- Responsive product listing page
+- Dynamic product details page
+- Add to cart / Remove from cart
+- Cart item counter and total price calculation
+- Route navigation (Home, Products, Cart, etc.)
+- Search & filter functionality
+- Loading states & error handling
+- Login / Register 
 
-```bash
-  npm install
-```
+---
 
-Start the server
+
+## 📁 Folder Structure
 
 ```bash
-  npm start
-```
+├── public
+│   └── index.html
+├── src
+│   ├── assets
+│   ├── components
+│   │   ├── Navbar.jsx
+│   │   ├── ProductCard.jsx
+│   │   └── ...
+│   ├── pages
+│   │   ├── Home.jsx
+│   │   ├── Products.jsx
+│   │   ├── Cart.jsx
+│   │   └── ...
+│   ├── context / redux
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js / styles.css
+├── package.json
+└── README.md
+## SCEREEN SHOTS
+
+![WhatsApp Image 2025-06-24 at 20 41 04_3418bba4](https://github.com/user-attachments/assets/68deccf0-1706-4c65-90ab-bfbb28cab723)
+
+![WhatsApp Image 2025-06-24 at 20 41 05_fce65103](https://github.com/user-attachments/assets/28e840e9-38ed-45c2-9c79-fc3f59c3376c)
 
 
-
-## Tech Stack
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+![WhatsApp Image 2025-06-24 at 20 41 05_f44ebd03](https://github.com/user-attachments/assets/235dad61-7d18-4528-8295-25612b86e3a8)
 
 
