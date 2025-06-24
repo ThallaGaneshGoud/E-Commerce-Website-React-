@@ -3,8 +3,11 @@
 A responsive, feature-rich e-commerce web application built with React.js, showcasing modern frontend architecture, product listings, cart functionality, and more.
 
 ---
+## Screen Shots
+![WhatsApp Image 2025-06-24 at 20 41 04_9f006de5](https://github.com/user-attachments/assets/c5bd2593-ee44-4dd4-96f3-70b7ce7f9586)
 
-
+![WhatsApp Image 2025-06-24 at 20 41 05_cc300ce0](https://github.com/user-attachments/assets/6ec379dc-5df9-4b1a-8d60-d3be07f0077f)
+![WhatsApp Image 2025-06-24 at 20 41 05_b42c5643](https://github.com/user-attachments/assets/a087fc75-21c2-4b66-89f5-fca03d6cefa8)
 
 ---
 
@@ -55,13 +58,5 @@ A responsive, feature-rich e-commerce web application built with React.js, showc
 ├── tailwind.config.js / styles.css
 ├── package.json
 └── README.md
-## SCEREEN SHOTS
-
-![WhatsApp Image 2025-06-24 at 20 41 04_3418bba4](https://github.com/user-attachments/assets/68deccf0-1706-4c65-90ab-bfbb28cab723)
-
-![WhatsApp Image 2025-06-24 at 20 41 05_fce65103](https://github.com/user-attachments/assets/28e840e9-38ed-45c2-9c79-fc3f59c3376c)
-
-
-![WhatsApp Image 2025-06-24 at 20 41 05_f44ebd03](https://github.com/user-attachments/assets/235dad61-7d18-4528-8295-25612b86e3a8)
 
 
